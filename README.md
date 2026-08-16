@@ -17,7 +17,7 @@ I enjoy building practical software projects that combine clean logic, data mana
 
 **Languages:** Java, Python
 
-**Concepts:** Object-Oriented Programming, File I/O
+**Concepts:** Object-Oriented Programming, File I/O, Data Structures and Algorithms
 
 **Tools:** GitHub, jGRASP, VS Code, Wing 101
 
